@@ -8,5 +8,5 @@ This Python-based virtual assistant utilizes a graphical user interface (GUI) bu
 
 Installation
 
-Run this command:
+Run this command:           
 pip install -r requirements.txt
