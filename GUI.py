@@ -55,6 +55,9 @@ frame.grid(row = 0, column = 1, padx = 55, pady = 10)
 text_label = Label (frame, text="Virtual Assistant", font=("Kanit", 14, "bold"), bg="#356696")
 text_label.grid(row = 0, column = 0, padx = 20, pady = 10 )
 
+#icon
+image_icon=PhotoImage(file="image/chat-icon-transparent-3-removebg-preview.png")
+root.iconphoto(False,image_icon)
 
 #image
 image = ImageTk.PhotoImage(Image.open("image/4416482-removebg-preview.png"))
