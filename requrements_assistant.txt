@@ -1,0 +1,13 @@
+pip install pillow
+pip install SpeechRecognition==3.8.1
+pip install PyAudio
+pip install pyttsx3
+pip install requests-html==0.10.0
+pip install lxml==4.9.1
+pip install requests beautifulsoup4
+pip install requests-html lxml[html_clean]
+
+
+
+
+

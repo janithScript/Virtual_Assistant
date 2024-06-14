@@ -1,0 +1,8 @@
+Pillow==8.4.0
+SpeechRecognition==3.8.1
+pyaudio==0.2.11
+pyttsx3==2.91
+requests-html==0.10.0
+lxml==4.9.1
+requests==2.25.1
+lxml[html_clean]==4.9.1
