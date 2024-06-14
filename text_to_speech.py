@@ -1,4 +1,5 @@
 
+from cgitb import text
 from logging import root
 import pyttsx3
 import threading
