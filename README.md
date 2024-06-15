@@ -3,7 +3,8 @@ This Python-based virtual assistant utilizes a graphical user interface (GUI) bu
 
 
 
-![virtual](https://github.com/janithScript/Virtual_Assistant/assets/127806197/e5b508fd-3a64-4866-ac19-ee6ff8f89743)
+![assistant](https://github.com/janithScript/Virtual_Assistant/assets/127806197/261e13dd-b9d1-46e5-a372-d30d91cfd751)
+
 
 
 
