@@ -38,13 +38,13 @@ def del_text():
     text.delete('1.0', "end")
 
 def on_entry_click(event):
-    if entry.get() == "Ask from me":
+    if entry.get() == "Promt here":
         entry.delete(0, "end")
         entry.insert(0, "")
 
 def on_focusout(event):
     if entry.get() == "":
-        entry.insert(0, "Ask from me")
+        entry.insert(0, "Promt here")
 
 #frame
 frame = LabelFrame(root, padx=100, pady = 7, borderwidth=3, relief="raised")
@@ -72,7 +72,7 @@ text.place(x = 100, y = 375, width = 375, height = 100)
 
 #enrty text_area
 entry = Entry(root, justify=CENTER, fg="#2D2D2D")
-entry.insert(0, "Ask from me")
+entry.insert(0, "Promt here")
 entry.bind('<FocusIn>', on_entry_click) 
 entry.bind('<FocusOut>', on_focusout) 
 entry.place(x=100, y=500, width=375, height=30)
