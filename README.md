@@ -17,6 +17,6 @@ Run this command:
 
 ## Documentation:           
 
-* You can ask:- play music, youtube, time now, skills please, google, shutdown, chat, weather and etc.
+* You can ask:- what you can do, play music, youtube, time now, skills please, google, shutdown, chat, weather and etc.
 
 * You can type and send the promt directly to the Virtual Assistant.
