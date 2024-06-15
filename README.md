@@ -18,4 +18,4 @@ Run this command:
 
 * You can ask:- play music, youtube, time now, skills please, google, shutdown, chat, weather and etc.
 
-* You can type and send the prompt directly to the Virtual Assistant.
+* You can type and send the promt directly to the Virtual Assistant.
