@@ -11,11 +11,13 @@ This Python-based virtual assistant utilizes a graphical user interface (GUI) bu
 ## Installation:            
 
 
-Run this command:           
+Run in terminal:           
 * pip install -r requirements.txt
 
 
-## Documentation:           
+## Documentation:     
+
+* Run GUI.py
 
 * You can ask:- what you can do, play music, youtube, time now, skills please, google, shutdown, chat, weather and etc.
 
