@@ -87,7 +87,4 @@ Button2.place(x=400, y=575)
 Button3 = Button(root, text="Delete" , bg="#356696", pady=16, padx=40, borderwidth=3, relief=SOLID , command=del_text)
 Button3.place(x=230, y=575)
 
-
-
-
 root.mainloop()
