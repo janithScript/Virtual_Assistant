@@ -17,7 +17,7 @@ def Action(data):
         return 'hay, sir how can i help you'
     
     elif "what you can do" in user_data or "todo" in user_data or "skills please" in user_data:
-        text_to_speech.text_to_speech("you can ask anything like, time now, play music, youtube, google, chat, weather, what is your name, how are you, go0d night, good morning, bye, shutdown")
+        text_to_speech.text_to_speech("you can ask anything like, time now, play music, youtube, google, chat, weather, what is your name, how are you, good night, good morning, bye, shutdown")
         return 'you can ask anything like, time now, play music, youtube, google, chat, weather, what is your name, how are you, good night, good morning, bye, shutdown'
 
     elif "how are you" in user_data or "how you" in user_data:
