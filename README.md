@@ -10,7 +10,7 @@ This Python-based virtual assistant utilizes a graphical user interface (GUI) bu
 ## Installation:            
 
 
-* Run in terminal:    
+ Run in terminal:    
 ```bash
 pip install -r requirements.txt
 ```
