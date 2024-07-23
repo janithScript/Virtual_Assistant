@@ -3,7 +3,6 @@ from PIL import Image, ImageTk
 import action
 import speech_to_text
 
-
 root = Tk()
 root.title("Virtual Assistant")
 root.geometry("550x675")
