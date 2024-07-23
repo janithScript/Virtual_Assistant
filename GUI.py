@@ -9,7 +9,6 @@ root.geometry("550x675")
 root.resizable(False,False)
 root.config(bg="#171616")
 
-
 # functions
 def ask():
     user_val = speech_to_text.speech_to_text()
